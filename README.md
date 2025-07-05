@@ -24,6 +24,18 @@ A simple and functional web-based Voting App built using [Html,Css,JavaScript]. 
 
 ---
 
+## 📸 Screenshots
+
+### 🧑‍💼 Voting UI  
+![Voting UI](./screenshots/voting-ui.png)
+
+### 🗳️ Live Voting Screen  
+![Live Voting](./screenshots/live-voting.png)
+
+### ✅ Voting Done Confirmation  
+![Voting Done](./screenshots/voting-done.png)
+
+
 ### 🚀 Live Demo:
 
 👉 [Click here to view](https://voting-app-amanmaner.netlify.app/)
