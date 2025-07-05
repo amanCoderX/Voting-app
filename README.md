@@ -21,3 +21,9 @@ A simple and functional web-based Voting App built using [Html,Css,JavaScript]. 
 - Node.js (optional if backend included)
 - Express.js (if applicable)
 - JSON or MongoDB (if you're storing votes)
+
+---
+
+### 🚀 Live Demo:
+
+👉 [Click here to view](https://voting-app-amanmaner.netlify.app/)
